@@ -8,3 +8,6 @@ ahora estoy mejor bro
 que has hecho
  
 algo nuevo
+
+
+otra modificacion mas para la segunda opcion de subir a git hub
